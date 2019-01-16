@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { Test1 } from "./Components/test1";
+import { StyleLearn } from "./Components/StyleLearn";
 
 class App extends Component {
   render() {
@@ -13,7 +13,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <Test1 ss="a"/>
+          <StyleLearn ss="a"/>
           <a
             className="App-link"
             href="https://reactjs.org"
